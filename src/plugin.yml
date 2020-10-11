@@ -1,0 +1,9 @@
+name: esoPlugin
+version: 6.9
+author: ????????
+main: me.eso.main.Main
+commands:
+  esotalk:
+    usage: /<command>
+    description: esoTalk!
+    aliases: eso
